@@ -1,6 +1,4 @@
-# Database Assignment README
-
-This README file provides instructions and explanations for the database assignment code.
+# README
 
 ## Setup Instructions for the Database
 
