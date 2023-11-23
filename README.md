@@ -11,7 +11,7 @@ If you haven't already installed PostgreSQL, please download and install it from
 ### 2. Create the Database and User
 The `create_db.sh` script will create a database named `mydatabase`, a user named `lucaswhitaker` (change this to your user) with the password `mypassword`, and grant the necessary privileges to the user. It will also create the `students` table and insert some initial data.
 
-# Configuration variables
+#### Configuration variables
 ```bash
 DB_NAME="mydatabase"
 DB_USER="insert_your_username"
